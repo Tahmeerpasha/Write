@@ -50,10 +50,10 @@ cd <project_folder>
 2. Install dependencies for both backend and frontend:
 
 ```bash
-cd backend
+cd server
 npm install
 
-cd ../frontend
+cd client
 npm install
 ```
 
@@ -75,14 +75,14 @@ npm install
 5. Run the backend server:
 
 ```bash
-cd backend
+cd server
 npm start
 ```
 
 6. Run the frontend server:
 
 ```bash
-cd frontend
+cd client
 npm start
 ```
 
