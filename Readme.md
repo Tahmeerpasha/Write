@@ -50,10 +50,10 @@ cd <project_folder>
 2. Install dependencies for both backend and frontend:
 
 ```bash
-cd backend
+cd server
 npm install
 
-cd ../frontend
+cd client
 npm install
 ```
 
