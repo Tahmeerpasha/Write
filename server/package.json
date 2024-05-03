@@ -1,0 +1,25 @@
+{
+  "name": "write",
+  "version": "1.0.0",
+  "description": "The nodejs backend for blogging platform - Write",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon src/index.js"
+  },
+  "keywords": [
+    "blog",
+    "backend",
+    "nodejs",
+    "mern"
+  ],
+  "author": "Tahmeer Pasha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
