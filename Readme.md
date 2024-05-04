@@ -86,6 +86,10 @@ cd client
 npm start
 ```
 
+## API Documentation
+
+Visit Postman documentation for the backend [here](https://documenter.getpostman.com/view/29455668/2sA3JGeNkp)
+
 ## Usage
 
 Once the backend and frontend servers are running, you can access the application by visiting `http://localhost:3000` in your web browser.
