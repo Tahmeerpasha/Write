@@ -25,6 +25,8 @@ This is a web application for a blogging platform that allows users to create, r
 
 ### Frontend
 
+- Next.js
+- TailwindCSS
 - React.js
 
 ## Features
